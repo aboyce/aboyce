@@ -1,11 +1,11 @@
-### Open Source
+#### Things I'm Maintaining
 
-- Jest Mock for Unit Testing Express - [bikk-uk/jest-mock-express](https://github.com/bikk-uk/jest-mock-express)
-- React Component for CSS Flex - [bikk-uk/react-css-flex](https://github.com/bikk-uk/react-css-flex)
-- React Component for CSS Grid - [bikk-uk/react-css-grid](https://github.com/bikk-uk/react-css-grid)
+- **Jest** mock for unit testing **Express** - **[`@jest-mock/express`](https://github.com/bikk-uk/jest-mock-express)**
+- **React** components to help with **CSS Flex** - **[`@react-css/flex`](https://github.com/bikk-uk/react-css-flex)**
+- **React** components to help with **CSS Grid** - **[`@react-css/grid`](https://github.com/bikk-uk/react-css-grid)**
 
-### Ongoing Learning
+#### Things I'm Learning
 
-- [Amazon Web Services](https://github.com/aboyce/aws)
-- [MongoDB](https://github.com/aboyce/mongodb)
-- [Kubernetes](https://github.com/aboyce/kubernetes)
+- Amazon Web Services - **[`aboyce/aws`](https://github.com/aboyce/aws)**
+- MongoDB - **[`aboyce/mongodb`](https://github.com/aboyce/mongodb)**
+- Kubernetes - **[`aboyce/kubernetes`](https://github.com/aboyce/kubernetes)**
