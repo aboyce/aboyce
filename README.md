@@ -1,6 +1,6 @@
 #### Things I'm Maintaining
 
-- **Jest** mock for unit testing **Express** - **[`@jest-mock/express`](https://github.com/bikk-uk/jest-mock-express)**
+- A **Jest** mock for unit testing **Express** - **[`@jest-mock/express`](https://github.com/bikk-uk/jest-mock-express)**
 - **React** components to help with **CSS Flex** - **[`@react-css/flex`](https://github.com/bikk-uk/react-css-flex)**
 - **React** components to help with **CSS Grid** - **[`@react-css/grid`](https://github.com/bikk-uk/react-css-grid)**
 
