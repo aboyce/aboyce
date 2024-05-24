@@ -7,7 +7,7 @@
 #### Notes
 
 - Vim ([neovim](https://neovim.io)) - **[`aboyce/vim`](https://github.com/aboyce/vim)**
-- RHEL - **[`aboyce/linux`](https://github.com/aboyce/linux)**
+- Red Hat Enterprise Linux - **[`aboyce/linux`](https://github.com/aboyce/linux)**
 - Kubernetes ([OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)) - **[`aboyce/kubernetes`](https://github.com/aboyce/kubernetes)**
 - Amazon Web Services - **[`aboyce/aws`](https://github.com/aboyce/aws)**
 - MongoDB - **[`aboyce/mongodb`](https://github.com/aboyce/mongodb)**
